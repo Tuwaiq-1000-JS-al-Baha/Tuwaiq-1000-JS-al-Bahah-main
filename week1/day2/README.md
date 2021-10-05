@@ -10,8 +10,8 @@
 
 ### Homework ### 
 
-* Create your own repository
-* [Calculate Age and Temperature using JS concepts](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day2/JS_HW_Vars%26Operators)
+* Create your own repository [Github Homework](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day2_Github)
+* [JS Concepts Homework](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_W1_D2_JSIntro-)
 
 ### Additional Materials
 * https://javascript.info
