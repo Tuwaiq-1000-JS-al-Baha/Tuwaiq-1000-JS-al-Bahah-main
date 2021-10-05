@@ -11,7 +11,7 @@
 ### Homework ### 
 
 * Create your own repository
-* JS Variables and Operators GA W1D2 ( Age and Temp)
+* [Calculate Age and Temperature using JS concepts](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day2/JS_HW_Vars%26Operators)
 
 ### Additional Materials
 * https://javascript.info
