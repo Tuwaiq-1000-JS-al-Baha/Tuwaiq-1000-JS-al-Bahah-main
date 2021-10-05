@@ -9,3 +9,5 @@
 * Array Methods
 * DOM
 * JQuery
+
+**Introduction to Capstone Project for Level 1
