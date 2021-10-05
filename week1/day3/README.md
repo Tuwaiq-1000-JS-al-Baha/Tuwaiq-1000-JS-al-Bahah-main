@@ -5,8 +5,8 @@
 
 #### Flexbox & Grid ####
 
-* Flexbox (GAW1D3)
-* Grid (GAW1D3) + [Grid](https://www.dropbox.com/sh/e533hpeddk382u5/AAAPxAVCrZbX4e1n4QiSJUYUa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%205?dl=0&subfolder_nav_tracking=1)
+* [Flexbox](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day3/Resources) 
+*  [Grid](https://www.dropbox.com/sh/e533hpeddk382u5/AAAPxAVCrZbX4e1n4QiSJUYUa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%205?dl=0&subfolder_nav_tracking=1)
 
 #### JavaScript ####
 
@@ -19,7 +19,7 @@
 
 ### Homework ###
 
-* Flexbox
+* [Flexbox](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/week1/day3/Homework/Flexbox.md)
 * Conditionals (GA W1D4 - Raindrop and Golf)
 
 ### Additional Reading ###
