@@ -14,10 +14,10 @@
 * JS Functions (GA W1D4) 
 
 ### Labs ###
-* [Bootstrap](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day4_Bootstrap) (GA W1D4)
-* [JS Functions](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day4_JS-Functions) (Calculator and Find Larger Number)
+* Bootstrap (GA W1D4)
+* JS Functions (Calculator and Find Larger Number)
 
 ### Homework ###
 
-* JS Functions (GA W1D4 - Aircondition)
-* Bootstrap -[Build a Catalogue Page](https://www.dropbox.com/sh/e533hpeddk382u5/AAAaa4RWgjRsLd4axpYIXeX8a/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%206?dl=0&preview=WD+L1T06+-+CSS+III+(Bootstrap).pdf&subfolder_nav_tracking=1)
+* [JS Functions](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day4_JS-Functions) (Calculator and Find Larger Number)(GA W1D4 - Aircondition)
+* [Bootstrap](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day4_Bootstrap) 
