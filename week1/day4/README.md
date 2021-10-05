@@ -14,8 +14,8 @@
 * JS Functions (GA W1D4) 
 
 ### Labs ###
-* Bootstrap (GA W1D4)
-* JS Functions (Calculator and Find Larger Number)
+* [Bootstrap](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day4_Bootstrap) (GA W1D4)
+* [JS Functions](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day4_JS-Functions) (Calculator and Find Larger Number)
 
 ### Homework ###
 
