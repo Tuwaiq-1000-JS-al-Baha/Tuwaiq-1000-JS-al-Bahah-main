@@ -1,0 +1,11 @@
+/*This example illustrates how the rules cascade when we use various CSS rules. 
+See the comments in the html file in this folder for more details. */
+p {
+    color: red;
+    font-family: Arial, Helvetica;
+    background-color: blue;
+}
+
+body {
+    background-color: lightgrey;
+}

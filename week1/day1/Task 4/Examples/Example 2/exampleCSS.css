@@ -1,0 +1,12 @@
+/* This is an example of an external stylesheet. Open example2.html and 
+notice how simply linking to this file causes the rules specified below to be applied to that
+HTML page. */
+p {
+    color: red;
+    font-family: Arial, Helvetica;
+    background-color: blue;
+}
+
+body {
+    text-align: center;
+}
