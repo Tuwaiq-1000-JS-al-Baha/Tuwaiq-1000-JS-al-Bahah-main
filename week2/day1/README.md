@@ -1,4 +1,4 @@
-# Week 2 Day 1: Review Concepts, 
+## Week 2 Day 1: Review Concepts
 # Introduce JavaScript Loops and Arrays 
 
 ### Review ###
