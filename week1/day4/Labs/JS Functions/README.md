@@ -1,7 +1,6 @@
 
 ### Lab: Functions
 
-## [Solutions!](functions-lab1-solution.js)
 
 Create a file named `functions.js`.
 
