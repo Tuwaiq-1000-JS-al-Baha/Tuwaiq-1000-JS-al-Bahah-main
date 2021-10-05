@@ -3,10 +3,12 @@
 
 ### Lectures ###
 
+#### Flexbox & Grid ####
+
 * Flexbox (GAW1D3)
 * Grid (GAW1D3) + [Grid](https://www.dropbox.com/sh/e533hpeddk382u5/AAAPxAVCrZbX4e1n4QiSJUYUa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%205?dl=0&subfolder_nav_tracking=1)
 
-### JavaScript ###
+#### JavaScript ####
 
 * [Conditionals](https://www.dropbox.com/sh/e533hpeddk382u5/AAAN-d9jfQtSUQcZ0MhV4Y6ha/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%209?dl=0&preview=WD+L1T09+-+JavaScript+II_+Conditional+Statements+%26+Looping.pdf&subfolder_nav_tracking=1) 
 
