@@ -19,5 +19,5 @@
 
 ### Homework ###
 
-* [JS Functions](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day4_JS-Functions) (Calculator and Find Larger Number)(GA W1D4 - Aircondition)
+* [JS Functions](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day4_JS-Functions) 
 * [Bootstrap](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day4_Bootstrap) 
