@@ -16,6 +16,6 @@
 
 ### Homework ### 
 
-* Loops
-* Arrays 
+* [Loops](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day1_Loops)
+* [Arrays](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day1_Arrays) 
 
