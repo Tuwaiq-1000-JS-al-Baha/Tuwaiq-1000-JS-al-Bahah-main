@@ -11,8 +11,8 @@
 - [CSS lab](cookie_recipe)
 
 ### Additional Reading:
-- [HTML5 Notes for professionals](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/resources/books/HTML5NotesForProfessionals.pdf)
-- [CSS Notes for professionals](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/resources/books/CSSNotesForProfessionals.pdf)
+- [HTML5 Notes for professionals](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/resources/books/HTML5NotesForProfessionals.pdf)
+- [CSS Notes for professionals](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/resources/books/HTML5NotesForProfessionals.pdf)
 
 
 ### Homework:
