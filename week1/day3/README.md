@@ -15,7 +15,7 @@
 ### Labs ### 
 
 * Flexbox and Grid 
-* Condtionals ( GA W1D4 - Fizzbuzz and Driver's Age)
+* [Conditionals](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/week1/day3/Labs/ConditionalsLab.md) 
 
 ### Homework ###
 
