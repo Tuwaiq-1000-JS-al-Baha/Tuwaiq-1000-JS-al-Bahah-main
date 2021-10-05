@@ -14,7 +14,7 @@
 * [JS Functions](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/week1/day4/Resources/js_functions.pdf) 
 
 ### Labs ###
-* Bootstrap (GA W1D4)
+* [Bootstrap](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day4/Labs/Bootstrap)
 * JS Functions (Calculator and Find Larger Number)
 
 ### Homework ###
