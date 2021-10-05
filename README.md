@@ -5,7 +5,7 @@
 Hi folks, Welcome to Tuwaiq 1000 JavaScript bootcamp. This repository contains information, HW,  Assignments, Projects and Materials specific to your course.
 
 # Important links 
-- [Class Slack]()
+- [Class Slack](https://app.slack.com/client/T02FM3FE1DJ/C02GRN6GHV2)
 - [Exit Ticket]() (complete at the end of Thursday class each week)
 
 ## Instructional Team
