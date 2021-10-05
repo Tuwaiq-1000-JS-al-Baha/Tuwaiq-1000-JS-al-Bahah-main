@@ -13,5 +13,5 @@
 
 ### Homework
 
-* DOM
-* JQuery
+* [DOM](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day4_DOM)
+* [JQuery](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day4_JQuery)
