@@ -8,4 +8,4 @@
 * Code Along [University Website](https://www.youtube.com/watch?v=oYRda7UtuhA)
 
 ### Homework ###
-Build your own website. 
+* [Responsive website](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day5_Responsiveness)
