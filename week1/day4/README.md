@@ -11,7 +11,7 @@
 
 #### JavaScript ####
 
-* JS Functions (GA W1D4) 
+* [JS Functions](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/week1/day4/Resources/js_functions.pdf) 
 
 ### Labs ###
 * Bootstrap (GA W1D4)
