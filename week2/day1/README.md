@@ -2,7 +2,7 @@
 # Introduce JavaScript Loops and Arrays 
 
 ### Review ###
-* [Landing Page](https://www.youtube.com/watch?v=hVdTQWASliE)
+* Code Along - *Landing Page*
 
 ### Lectures ###
 
