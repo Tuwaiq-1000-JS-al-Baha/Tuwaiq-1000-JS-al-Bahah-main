@@ -1,4 +1,4 @@
-# Week 2 day 1. JS Object lab
+# Week 2 day 2. JS Object lab
 
 ### Runs example:
 
