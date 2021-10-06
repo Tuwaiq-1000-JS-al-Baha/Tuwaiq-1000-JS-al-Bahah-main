@@ -1,4 +1,3 @@
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
 # JavaScript Objects
 
@@ -370,58 +369,4 @@ us:
 - What's the resolution?
 - How much power does it consume?
 
-### Lab: Modeling in JavaScript & Modeling Run Tracker
 
-
-## Code Along: Write Methods With `this`
-
-When we start thinking about how the methods for 'User' will work, we run into a
-difficulty. A method for calculating the longest distance run so far needs to be
-able to access, and refer to, all of the runs associated with that particular
-user. How do we do that?
-
-Watch as I demonstrate how to complete writing each method.
-
-```js
-const user = {
-  name: 'Christopher Robin',
-  email: 'wdi@christopherRobin.com',
-  address: 'home',
-  runs: [
-    {
-      date: '2017-05-25 15:00',
-      distance: 1200,
-      timeTaken: 600
-    },
-    {
-      date: '2017-05-25 15:00',
-      distance: 1400,
-      timeTaken: 800
-    }
-  ],
-  totalDistance: function () {},
-  longestRunDistance: function () {},
-  averageSpeed: function () {}
-}
-```
-
-## Lab: Self-Referential Objects
-
-
-    
-## Additional Resources
-
-### Objects
-
-- [Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
-- [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-- [Objects JS Info](https://javascript.info/object)
-- [MDN `this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
-- [Understand JavaScript's `this` with Clarity](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
-- [`this` in JavaScript](https://john-dugan.com/this-in-javascript/)
-
-## [License](LICENSE)
-
-1. All content is licensed under a CC­BY­NC­SA 4.0 license.
-1. All software code is licensed under GNU GPLv3. For commercial use or
-    alternative licensing, please contact legal@ga.co.
