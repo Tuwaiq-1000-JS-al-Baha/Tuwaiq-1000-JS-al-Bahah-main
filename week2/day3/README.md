@@ -3,16 +3,16 @@
 
 ### Lectures 
 
-* Scope
-* Arrow Functions
-* [Array Methods](https://www.dropbox.com/sh/e533hpeddk382u5/AACVD-A03hugDYvynygJr1tYa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%2011?dl=0&subfolder_nav_tracking=1) + [Array Iterator Methods](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day3/Labs)
+* [JS Scope](Resources/Scope.md)
+* [JS Arrow functions](Resources/Arrow_functions.md)
+* [JS Callbacks](Resources/Callbacks.md)
+* [JS Array methods](Resources/Array_Methods.md)
+* [Array Iterator Methods](Labs)
 
 ### Labs
 
-* Arrow Functions 
-* [Scope and Array Methods](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day3/Labs)
+* [Array Methods Lab](Labs/Array_methods_lab.md)
 
 ### Homework
 
-* [Arrow Functions](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day3_Arrow-Functions)
-* [Array Methods](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day3_Array-Methods)
+* [Array Methods HW](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day3_Array_methods)

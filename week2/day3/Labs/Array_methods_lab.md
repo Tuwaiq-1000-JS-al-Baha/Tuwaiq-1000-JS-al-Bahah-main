@@ -1,22 +1,4 @@
-<img src="https://i.imgur.com/wVPKb5D.png">
-
-# Array Iterator Methods Lab
-
-## Intro
-
-You've been introduced to several very useful array iterator methods such as `forEach`, `filter`, etc.
-
-The following exercises provide practice using some of them.
-
-**This lab is a DELIVERABLE.**
-
-## Set Up
-
-1. Create a HTML/CSS/JS [Repl](https://repl.it) and name it "Array Methods Lab".
-
-2. Copy the code below into the repl and complete each exercise.
-
-## Exercises
+## Array methods Lab:
 
 ```js
 // Some data we can work with
@@ -125,10 +107,6 @@ const comments = [
 
 
 ```
-
-## DELIVERABLE?
-
-Yes, this lab is a deliverable.  Please submit the link to your "Array Methods Lab" repl.
 
 ## Reference
 
