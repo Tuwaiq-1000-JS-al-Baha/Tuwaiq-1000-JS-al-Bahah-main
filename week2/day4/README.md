@@ -10,7 +10,7 @@
 ### Labs
 
 * [DOM](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day4/Labs/DOM)
-* JQuery(https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day4/Labs/JQuery)
+* [JQuery](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day4/Labs/JQuery)
 
 
 ### Homework
