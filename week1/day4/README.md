@@ -1,9 +1,6 @@
 
 # Week 1 Day 4 : Bootstrap and JavaScript Functions #
 
-## Review : Landing Page Warmup ## 
-* (https://www.youtube.com/watch?v=hVdTQWASliE)
-
 ### Lectures ###
 
 #### Bootstrap ####
@@ -11,11 +8,11 @@
 
 #### JavaScript ####
 
-* [JS Functions](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/week1/day4/Resources/js_functions.pdf) 
+* [JS Functions](Resources/js_functions.pdf) 
 
 ### Labs ###
-* [Bootstrap](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day4/Labs/Bootstrap)
-* [JS Functions](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day4/Labs/JS%20Functions)
+* [Bootstrap](Labs/Bootstrap)
+* [JS Functions](Labs/JS%20Functions)
 
 ### Homework ###
 
