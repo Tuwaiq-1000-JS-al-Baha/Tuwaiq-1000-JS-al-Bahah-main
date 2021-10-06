@@ -16,3 +16,9 @@
 ### Homework
 
 * [Array Methods HW](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day3_Array_methods)
+
+### Additional Resources:
+
+* [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
+* [String Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
