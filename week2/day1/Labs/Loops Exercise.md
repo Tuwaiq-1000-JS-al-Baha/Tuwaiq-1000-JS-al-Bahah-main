@@ -28,4 +28,12 @@ Write a for loop that will iterate from 0 to 20. For each iteration, it will che
 
 ## The Grade Assigner
 
-Check the results of assignGrade function from the conditionals exercise for every value from 60 to 100 - so your log should show "For 89, you got a B. For 90, you got an A.", etc.
+Assign a grade and log it based on a score that you provide as variable and according to the grading system shown below. for example your log should show "For 89, you got a B." or "For 90, you got an A.", etc.
+
+| Score      | Grade       |
+| ---------- | -------------- |
+| 90-100          | A  |
+| 80-90 | B        |
+| 70-80    | C        |
+| 60-70        | D          |
+| less than 60    | F        |
