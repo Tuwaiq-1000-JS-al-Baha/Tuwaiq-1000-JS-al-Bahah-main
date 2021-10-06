@@ -6,11 +6,11 @@
 
 ### Lectures ### 
 
-* JavaScript Objects 
+* [JavaScript Objects](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day2/Rescources) 
 
 ### Labs
 
-* Objects
+* [Objects](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/week2/day2/Labs/Objects%20.md)
 
 ### Homework 
 

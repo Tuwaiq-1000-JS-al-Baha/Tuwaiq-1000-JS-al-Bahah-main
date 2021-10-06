@@ -1,0 +1,9 @@
+.hidden {
+    display: none;
+}
+
+img {
+    display: block;
+    width: 100px;
+    margin: 10px;
+}

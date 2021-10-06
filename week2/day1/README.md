@@ -12,8 +12,8 @@
 
 ### Labs ###
 
-* Loops
-* Arrays 
+* [Loops](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/week2/day1/Labs/Loops%20Exercise.md)
+* [Arrays](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/week2/day1/Labs/Arrays%20Exercise.md) 
 
 ### Homework ### 
 
