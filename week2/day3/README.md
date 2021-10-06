@@ -9,8 +9,8 @@
 
 ### Labs
 
-* Array Methods
-* Scope and Array Methods
+* Arrow Functions 
+* [Scope and Array Methods](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day3/Labs)
 
 ### Homework
 
