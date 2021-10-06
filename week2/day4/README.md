@@ -17,3 +17,7 @@
 
 * [DOM](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day4_DOM)
 * [JQuery](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day4_JQuery)
+
+## Additional Resources
+* [DOM](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day4/Resources/DOM)
+* [JQuery](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day4/Resources/JQuery)
