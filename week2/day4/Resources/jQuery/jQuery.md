@@ -1,6 +1,4 @@
-# W02D04-jQuery
-
-
+# jQuery
 
 
 ## What is jQuery?
@@ -945,8 +943,5 @@ $(document).ready(function(){
 ```
 
 
-# jQuery Quiz
-- [Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=jQuery)
-
-# jQuery Exercise
-- [Exercise](https://www.w3schools.com/jquery/jquery_exercises.asp)
+### jQuery Quiz:
+- [jQuery Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=jQuery)
