@@ -1,7 +1,7 @@
 # Week 1 Day 2 : Github, CLI and Introduction to JavaScript #
 
 ### Lectures ###
-#### Github and Command Line:
+#### Git and Command Line:
 * [Git Basics](https://github.com/Tuwaiq-1000-JS-al-Baha/git01)
 * [Command Line](https://github.com/Tuwaiq-1000-JS-al-Baha/Week01_Day01_CommandLine)
 
