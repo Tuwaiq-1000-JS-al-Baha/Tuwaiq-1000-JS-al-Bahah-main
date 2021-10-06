@@ -1,4 +1,23 @@
+# JavaScript Arrays
 
+## Iterating through Arrays
+
+
+#### Code Along: Iterate through an Array
+
+```js
+const developers = ['Ahmad', 'Mike', 'Sami']
+
+// Individually print message for each item in array
+console.log('Hello ' + developers[0])
+console.log('Hello ' + developers[1])
+console.log('Hello ' + developers[2])
+
+// Loop through array using i as the index
+for (let i = 0; i < developers.length; i++) {
+  console.log('Hello ' + developers[i])
+}
+```
 
 ## Lab Practice
 
@@ -43,10 +62,7 @@ numbers; // => [8, 9, 7, 4, 1, 16]
 
 6.  Create an array of ages.  Loop through and log only the ages that are over 21.
 
-7.  Use a **Map** function to find odd values and multiply them by 2 and for even numbers multiply them by 7 and return the new array in console as **NewNum**
+## Array Resources
 
-```js
-const numbers = [3, 2, 24, 17, 15, 1];
-
-```
-
+- https://javascript.info/array
+- https://javascript.info/array-methods
