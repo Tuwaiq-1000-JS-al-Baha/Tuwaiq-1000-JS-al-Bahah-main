@@ -2,7 +2,7 @@
 
 ### Lectures ###
 #### Github and Command Line:
-* [Github Basics](https://github.com/Tuwaiq-1000-JS-al-Baha/git01)
+* [Git Basics](https://github.com/Tuwaiq-1000-JS-al-Baha/git01)
 * [Command Line](https://github.com/Tuwaiq-1000-JS-al-Baha/Week01_Day01_CommandLine)
 
 #### JavaScript:
