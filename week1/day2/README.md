@@ -4,14 +4,15 @@
 #### Git and Command Line:
 * [Git Basics](https://github.com/Tuwaiq-1000-JS-al-Baha/git01)
 * [Command Line](https://github.com/Tuwaiq-1000-JS-al-Baha/Week01_Day01_CommandLine)
+* [Github Homework submission test](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day2_Github)
 
 #### JavaScript:
 * [JS variables and operators](https://www.dropbox.com/sh/e533hpeddk382u5/AADiZOkY37Nw5anLF-3qN4U8a/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%208?dl=0&subfolder_nav_tracking=1)
+* [JS variables LAB](javascript-intro-lab)
 
 ### Homework ### 
 
-* Create your own repository [Github Homework](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day2_Github)
-* [JS Concepts Homework](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_W1_D2_JSIntro-)
+* [JS Variables HW](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_W1_D2_JSIntro-)
 
 ### Additional Materials
 * https://javascript.info
