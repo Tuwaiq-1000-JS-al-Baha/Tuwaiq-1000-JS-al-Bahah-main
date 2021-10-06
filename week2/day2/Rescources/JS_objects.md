@@ -1,4 +1,3 @@
-
 # JavaScript Objects
 
 Exercising the JavaScript Reference Types.
@@ -204,70 +203,6 @@ car.make // 'Ford'
 car.drive(20) // 'Vroooom! We drove 20 miles"
 ```
 
-## Abstraction and Modeling
-
-The world is full of complex systems. Take weather, for example.
-
-![Weather Forecast](https://upload.wikimedia.org/wikipedia/commons/c/c0/NOAA_Wavewatch_III_Sample_Forecast.gif)
-
-There's a ton of information we could record about the weather. Yet, when you
-read the weather report in the morning, all of that information is distilled
-down to a handful of numbers: 34 degrees fahrenheit, 20% chance of
-precipitation, 4 degree windchill...
-
-Why do you think that might be?
-
-When you take something complex and then hide that complexity under a more
-simple interface, you are using a technique called **abstraction**.
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(software_engineering)):
-> In software engineering and computer science,
-> abstraction is a technique for arranging complexity of computer systems. It
-> works by establishing a level of complexity on which a person interacts with the
-> system, suppressing the more complex details below the current level.
-
-<!-- Think-Pair-Share -->
-
-<details>
-  <summary>How might abstraction be relevant as software developers? Take a
-  minute and discuss this with your team.</summary>
-
-  We can use abstraction to represent real-world entities when we write software.
-  This allows us to hide complex systems underneath easy to grasp objects and
-  models.
-</details>
-<br />
-
-Think about the weather report that you are given by the weather person. They give
-you the temperature in your city, if it's going to rain or snow, level of
-precipitation, and the wind speed. This model of the weather system hides the
-complexity that is behind these measurements.
-
-A **model** is a simplified or partial representation of the real thing. Models
-are based on a real entity, and are used to represent the real entity in a
-system. Modeling is great for planning, designing, discussing, and understanding
-a system.
-
-### Discussion
-
-Let's take a look at a specific example: a Laptop. Suppose that we need to
-represent a laptop in an application. What attributes are most important to
-include in our model?
-
-As it turns out, the answer to that question depends heavily on what the
-application will do and how it will be used. If the application is for selling
-laptops, we might pick attributes like sale price, brand, amount of RAM, disc
-space, and processor speed. However, if the application is for factories, e.g.
-tracking laptops as they're being manufactured, things like sale price are
-irrelevant; instead, we might want our model to include the production line
-where the laptop was assembled, or the laptop's current stage of completion.
-
-In order to decide what attributes we need to model, we use user stories, which
-we'll talk about in more depth as we introduce the first project.
-
-### Lab: Brainstorm
-
-
 ## Demo: Modeling in JavaScript
 
 Let's think about how might we construct a model in JavaScript as part of an
@@ -346,27 +281,42 @@ const car = {
   }
 }
 ```
-
-### Code Along: Television
-
-Now, let's consider how we might model a TV. How could we do this in JavaScript?
-Together, we'll write out a JavaScript object that represents all of the
-features and behaviors of a TV listed below.
-
-Let's assume that we're only concerned with using the TV, not selling it or
-anything like that.
-
-When we interact with a TV, there's a short list of things that we typically do:
-
-- Turn it on/off (toggle power).
-- Increase or decrease the volume.
-- Increase or decrease the channel.
-
-In addition, there are a number of other features of the TV that might interest
-us:
-
-- Is it a plasma/LCD/LED TV?
-- What's the resolution?
-- How much power does it consume?
+### Lab: Modeling in JavaScript & Modeling Run Tracker
 
 
+## Code Along: Write Methods With `this`
+
+When we start thinking about how the methods for 'User' will work, we run into a
+difficulty. A method for calculating the longest distance run so far needs to be
+able to access, and refer to, all of the runs associated with that particular
+user. How do we do that?
+
+Watch as I demonstrate how to complete writing each method.
+
+```js
+const user = {
+  name: 'Christopher Robin',
+  email: 'wdi@christopherRobin.com',
+  address: 'home',
+  runs: [
+    {
+      date: '2017-05-25 15:00',
+      distance: 1200,
+      timeTaken: 600
+    },
+    {
+      date: '2017-05-25 15:00',
+      distance: 1400,
+      timeTaken: 800
+    }
+  ],
+  totalDistance: function () {},
+  longestRunDistance: function () {},
+  averageSpeed: function () {}
+}
+```
+
+    
+### Additional Resources
+
+- [Object Basics](https://javascript.info/object)

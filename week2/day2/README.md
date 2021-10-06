@@ -2,16 +2,16 @@
 # Week 2 Day 2 : Code Along and JavaScript Objects 
 
 ### Review ###
-* [Microsoft Clone Website](https://www.youtube.com/watch?v=uKgn-To1C4Q)
+* Code along: **Microsoft Clone Website**
 
 ### Lectures ### 
 
-* [JavaScript Objects](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day2/Rescources) 
+* [JavaScript Objects](Rescources/JS_objects.md) 
 
 ### Labs
 
-* [Objects](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/week2/day2/Labs/Objects%20.md)
+* [JS Objects Lab](Labs/Objects_Lab.md)
 
 ### Homework 
 
-* [Objects Homework](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day2_Objects)
+* [JS Objects Homework](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day2_Objects)
