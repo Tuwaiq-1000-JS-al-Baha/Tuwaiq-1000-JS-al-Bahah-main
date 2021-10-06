@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        .input {
+            text-align: center;
+        }
+
+        .list {
+            margin-top: 20px;
+        }
+
+        .item-done {
+            text-decoration: line-through;
+            color: green;
+        }
+
+        /* this is a hover effect with css */
+        /*         li:hover {
+            background-color: yellow;
+        } */
+    </style>
+</head>
+
+<body>
+    <h2>To do List</h2>
+    <div class="input">
+        <label for="text"> enter here:</label>
+        <input type="text" id="text" placeholder="enter here..">
+        <button id="btn">Add</button>
+    </div>
+    <div>
+        <ul class="list">
+        </ul>
+    </div>
+    <script>
+        // we get the input element, ul and button
+        const input = document.querySelector("#text")
+        const ul = document.querySelector(".list")
+        const button = document.querySelector("#btn")
+
+        button.addEventListener('click', function () {
+            // we get the value from input
+            const text = input.value
+            // we create an empty element of type li
+            const li = document.createElement("li")
+            // put the text from input inside it
+            li.innerText = text
+
+            // add a "listener" on "click" on that element so it become clickable
+            li.addEventListener("click", function (e) {
+                // e.target gives us the element we clicked on
+                const clickedElement = e.target
+
+                // we can add a class to it
+                clickedElement.classList.add("item-done")
+                // or modify its css directly by one of these ways
+                clickedElement.setAttribute("style", "text-decoration: line-through")
+                clickedElement.style.setProperty("color", "green")
+                clickedElement.style.textDecoration = "line-through"
+            })
+
+            // this adds "li" to the end of "ul"
+            ul.append(li)
+            // this makes input empty
+            input.value = ""
+        })
+
+
+    </script>
+</body>
+
+</html>
