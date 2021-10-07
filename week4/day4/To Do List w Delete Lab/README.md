@@ -1,24 +1,5 @@
 ### Homework : TODO LIST App
 
-### Soltion:
-
-- [TodoList / Counter Toggle](todolist-switcher)
-
-- [TodoList with Delete](todolist-with-delete)
-
-
-- to make this project run
-
-- open it in Visual Studio Code (drag & drop the folder)
-
-- open the terminal with CTRL+J
-
-- npm install
-
-- npm start
-
-*Note*: we do npm install only the first time
-
 ### Task:
 
 1- Make a button in App.js that if clicked hide the Todo List
