@@ -19,7 +19,7 @@
 
 ## Homework
 
-* [React States - Counter App](https://codesandbox.io/s/github/adnba/counter-app)
+* [React States - Counter App](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day3/Counter%20App)
 * 
 ## Additional Resources
 
