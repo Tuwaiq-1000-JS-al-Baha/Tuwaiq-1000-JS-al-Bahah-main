@@ -1,4 +1,4 @@
-## Week 3 Day 1: AJAX + Fetch
+## Week 4 Day 1: AJAX + Fetch
 
 ### Lectures:
 
