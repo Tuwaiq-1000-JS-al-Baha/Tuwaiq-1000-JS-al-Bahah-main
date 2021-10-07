@@ -1,4 +1,4 @@
-### Homework : TODO LIST App
+### Lab : TODO LIST App
 
 ### Task:
 
