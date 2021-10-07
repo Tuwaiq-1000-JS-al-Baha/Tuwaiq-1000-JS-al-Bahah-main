@@ -14,11 +14,13 @@
 
 ## Labs 
 
-* [React + React States - Counter App](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day3/React%20States%20Lab) 
+* [React + React States - Student's Lab](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day3/React%20States%20Lab) 
 * OOP
 
 ## Homework
 
+* [React States - Counter App](https://codesandbox.io/s/github/adnba/counter-app)
+* 
 ## Additional Resources
 
 * [React](https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/)
