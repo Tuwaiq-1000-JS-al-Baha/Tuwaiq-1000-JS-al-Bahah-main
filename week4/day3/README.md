@@ -10,7 +10,7 @@
 
 ### Object Oriented Programming
 
-* OOP 
+* [OOP](https://docs.google.com/presentation/d/1sDOwuQJZMHvh002IUSE33LzkR31_u1cYb17ST8zxoGM/edit) 
 
 ## Labs 
 
