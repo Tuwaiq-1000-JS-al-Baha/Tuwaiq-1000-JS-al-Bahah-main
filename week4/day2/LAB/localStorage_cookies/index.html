@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Lab</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>localStorage + Cookies</title>
+</head>
+
+<body>
+    <div id="userdata">
+        <h2>User Data from cookies </h2>
+
+    </div>
+
+    <div id="userdataLs">
+        <h2>User Data from localStorage </h2>
+
+    </div>
+
+    <div id="userdataSs">
+        <h2>User Data from sessionStorage </h2>
+
+    </div>
+
+    <script>
+        //sessionStorage
+        /*
+        sessionStorage.setItem("lastname", "Smith");
+        sessionStorage.setItem("username", "ali");
+        sessionStorage.setItem("password", "123");
+        sessionStorage.setItem("adreess", "Riyadh");
+        sessionStorage.setItem("location", "45.00222,14555.225");
+        */
+        document.querySelector("#userdataSs").innerHTML
+            += sessionStorage.getItem("lastname") + "<br>";
+        document.querySelector("#userdataSs").innerHTML
+            += sessionStorage.getItem("username") + "<br>";
+        document.querySelector("#userdataSs").innerHTML
+            += sessionStorage.getItem("password") + "<br>";
+        document.querySelector("#userdataSs").innerHTML
+            += sessionStorage.getItem("adreess") + "<br>";
+        document.querySelector("#userdataSs").innerHTML
+            += sessionStorage.getItem("location") + "<br>";
+
+
+        //local storage 
+        /*
+        localStorage.setItem("lastname", "Smith");
+        localStorage.setItem("username", "ali");
+        localStorage.setItem("password", "123");
+        localStorage.setItem("adreess", "Riyadh");
+        localStorage.setItem("location", "45.00222,14555.225");
+        */
+        document.querySelector("#userdataLs").innerHTML
+            += localStorage.getItem("lastname") + "<br>";
+        document.querySelector("#userdataLs").innerHTML
+            += localStorage.getItem("username") + "<br>";
+        document.querySelector("#userdataLs").innerHTML
+            += localStorage.getItem("password") + "<br>";
+        document.querySelector("#userdataLs").innerHTML
+            += localStorage.getItem("adreess") + "<br>";
+        document.querySelector("#userdataLs").innerHTML
+            += localStorage.getItem("location") + "<br>";
+
+
+        
+        // cookies
+        document.cookie = "username=Adenen";
+        document.cookie = "password=123456";
+        document.cookie = "mobile=012345666";
+        document.cookie = "adreess=Riyadh ";
+        document.cookie = "location=45.00222,14555.225";
+        document.cookie = "mobile=;expires=Thu, 01 Jan 1970 00:00:00 UTC"
+        let allcookies = document.cookie;
+        document.querySelector("#userdata").innerHTML += allcookies.replaceAll(";", "<br>");
+
+
+    </script>
+</body>
+
+</html>

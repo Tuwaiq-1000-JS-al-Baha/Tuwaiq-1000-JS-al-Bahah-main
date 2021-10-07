@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: lightblue;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        #container {
+            background-color: whitesmoke;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            padding: 20px;
+        }
+
+        .post {
+            background-color: white;
+            max-width: 20%;
+            border: 2px solid gray;
+            padding: 12px;
+            margin: 2px;
+        }
+
+        #post-title {
+            background-color: white;
+            text-align: center;
+            padding: 10px 0px;
+        }
+
+        #create {
+            background-color: teal;
+            color: whitesmoke;
+            font-size: 1.1em;
+            border: 0;
+            border-radius: 4px;
+            padding: 10px 18px;
+            display: block;
+            margin: 14px;
+        }
+
+        #form-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: whitesmoke;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="form-container">
+
+        <h2>Add a Post!</h2>
+        <form autocomplete="off">
+            <label for="title">Title:</label>
+            <input type="text" id="title">
+            <br>
+            <label for="body">Body:</label>
+            <input type="text" id="body">
+            <input type="submit" id="create" value="create post">
+        </form>
+    </div>
+    <h2 id="post-title">Posts!</h2>
+    <div id="container"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        // async function that fetch the posts list from API and returns the JSON
+        // containing the posts list in an array
+        async function getPosts() {
+            try {
+                const response = await axios.get('https://jsonplaceholder.typicode.com/posts');
+                if (response.status === 200) {
+                    const data = response.data;
+                    return data
+                } else {
+                    throw new Error("not ok")
+                }
+            } catch (err) {
+                console.log("i am in catch", err.message)
+            }
+        }
+
+        // async function that calls the getPosts async function then renders the JSON posts data
+        // in the page using DOM, inside the div #container
+        async function renderPosts() {
+            const posts = await getPosts()
+            let html = ""
+            console.log(posts)
+            posts.forEach(post => {
+                let htmlSegment = `<div class="post">
+                                        <h3>${post.title}</h3>
+                                        <hr>
+                                        <p>${post.body}</p>
+                                    </div>`;
+                html += htmlSegment
+            });
+            const container = document.querySelector("#container")
+            container.innerHTML = html
+        }
+
+        // we have to call the render async function else the page won't load the posts
+        renderPosts()
+
+        // we get the form with DOM and attach an event listener on submit
+        // to get the data in input after clicking on submit
+        document.querySelector("form").addEventListener("submit", e => {
+            // never forget e.preventDefault() in button click on form
+            e.preventDefault()
+
+            // i get the title and body values from the inputs
+            const title = document.querySelector("#title").value
+            const body = document.querySelector("#body").value
+
+            // we create the new post based on the collected input
+            const newPost = {
+                title: title,
+                body: body
+            }
+
+            // call the createPost function that will perform the POST request
+            // we pass the newPost as a parameter
+            createPost(newPost)
+        })
+
+        function createPost(newPost) {
+            // the POST request
+            // we pass the newPost object as body of the request
+            axios.post("https://jsonplaceholder.typicode.com/posts", newPost)
+                .then(res => {
+                    const createdPost = res.data
+
+                    if (res.status === 400) {
+                        throw new Error(res.statusText)
+                    }
+                    // normally i will call the renderPost async function to refresh the list of posts
+                    // after adding the post
+                    // But ! since this is a fake API i will not call renderPosts() to refresh
+                    //renderPosts()
+
+                    // i will call this to manually add the post because it's a fake API
+                    appendPost(createdPost)
+
+                })
+                .catch(err => console.log(err))
+        }
+
+
+        // this function is only needed because i am using a fake API
+        // it manually adds the created post to the posts
+        function appendPost(createdPost) {
+            let htmlSegment = `<div class="post">
+                                        <h3>${createdPost.title}</h3>
+                                        <hr>
+                                        <p>${createdPost.body}</p>
+                                    </div>`;
+
+            const container = document.querySelector("#container")
+            container.innerHTML = htmlSegment + container.innerHTML
+        }
+    </script>
+</body>
+
+</html>

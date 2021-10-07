@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dog API random image</title>
+</head>
+
+<body>
+    <div id="image"></div>
+    <script>
+        // simple example of getting a random dog (pitbull) image and display it in html using DOM
+        // you should have a div with an id image for this to work
+        fetch('https://dog.ceo/api/breed/pitbull/images/random')
+            .then(response => {
+                console.log(response)
+                return response.json()
+            })
+            .then(data => {
+                console.log(data)
+
+                const div = document.getElementById('image')
+                div.innerHTML = `<img src="${data.message}">`
+            })
+    </script>
+</body>
+
+</html>

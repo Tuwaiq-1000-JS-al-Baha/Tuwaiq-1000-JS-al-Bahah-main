@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for="search">Search:</label>
+        <input type="text" id="search">
+        <input type="submit" value="search">
+    </form>
+    <div id="container"></div>
+    <script>
+        const url = "https://pokeapi.co/api/v2/pokemon/"
+        const container = document.querySelector("#container")
+        const form = document.querySelector('form')
+
+        form.addEventListener("submit", e => {
+            e.preventDefault()
+            const inputs = e.target.elements
+            const search = inputs[0].value
+            fetch(url + search)
+            .then(res => res.json())
+            .then(data => {
+                console.log(data)
+                let html = `
+                <div>
+                    <h2>${data.name}</h2>
+                    <p>Height: ${data.height} Weight: ${data.weight}</p>
+                </div>
+                `
+                container.innerHTML = html
+            })
+        })
+    </script>
+</body>
+</html>

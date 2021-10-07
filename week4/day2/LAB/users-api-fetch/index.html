@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Users</title>
+    <style>
+        #container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin-bottom: 100px;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Users</h2>
+    <div id="container"></div>
+    <h2>Create a new user</h2>
+    <form autocomplete="off">
+        <label for="title">First Name:</label>
+        <input type="text" name="firstName" id="firstName">
+        <br>
+        <label for="title">Last Name:</label>
+        <input type="text" name="lastName" id="lastName">
+        <br>
+        <label for="body">Email:</label>
+        <input type="email" name="email" id="email">
+        <br>
+        <label for="body">Image URL:</label>
+        <input type="url" name="imageUrl" id="imageUrl">
+        <br>
+        <input type="submit" name="create" id="create" value="create post">
+    </form>
+    <script src="script.js"></script>
+</body>
+
+</html>
