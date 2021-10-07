@@ -11,7 +11,7 @@
 ### Lab:
 
 - [Fetch example Lab](fetch-example)
-- [Promise example Lab](Promises/Lab/lab.js)
+- [Promise example Lab](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day1/Promises%20Lab)
 
 ### Homework:
 
