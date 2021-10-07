@@ -20,7 +20,7 @@
 
 ## Additional Resources
 
-* [DOM](Resources/DOM)
+* [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * [jQuery Cheatsheet](https://htmlcheatsheet.com/jquery)
 * [jQuery Cheatsheet](https://oscarotero.com/jquery)
 * [jQuery Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JQUERY)
