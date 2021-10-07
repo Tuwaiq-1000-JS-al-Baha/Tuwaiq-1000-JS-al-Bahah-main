@@ -19,5 +19,6 @@
 
 ### Extra:
 
+- [Promise Resources](https://www.w3schools.com/js/js_promise.asp)
 - [Promise article](https://medium.com/jspoint/javascript-promises-and-async-await-as-fast-as-possible-d7c8c8ff0abc)
 - [Public APIs](https://github.com/public-apis/public-apis)
