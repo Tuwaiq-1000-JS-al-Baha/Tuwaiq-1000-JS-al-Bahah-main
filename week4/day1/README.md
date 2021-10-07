@@ -3,10 +3,10 @@
 ### Lectures:
 
 #### AJAX & fetch:
-- [AJAX + fetch](AJAX)
+- [AJAX + fetch](https://www.dropbox.com/sh/e533hpeddk382u5/AACA9wP1fi3QmBOiIIEnVroqa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%202?dl=0&preview=WD+L1T02+-+Intro+to+Web+Development.pdf&subfolder_nav_tracking=1)
 - [JSON](https://www.dropbox.com/sh/e533hpeddk382u5/AABWxHBdUZ-6rBqQH-RgVd7oa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%2013?dl=0&subfolder_nav_tracking=1)
 #### Promise:
-- [Promise](Promises)
+- [Promise](https://javascript.info/promise-basics)
 
 ### Lab:
 
