@@ -14,8 +14,8 @@
 
 ## Labs 
 
+* Code along: **Counter app**
 * [React + React States - Student's Lab](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day3/React%20States%20Lab) 
-* OOP
 
 ## Homework
 
