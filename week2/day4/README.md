@@ -4,6 +4,7 @@
 ### Lectures 
 
 * [DOM](https://www.w3schools.com/js/js_htmldom.asp)
+* [Events](https://javascript.info/introduction-browser-events)
 * [jQuery](https://www.dropbox.com/sh/e533hpeddk382u5/AABPQRcPKHcDih9USFWlm0mOa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%2014?dl=0&subfolder_nav_tracking=1)
 
 
