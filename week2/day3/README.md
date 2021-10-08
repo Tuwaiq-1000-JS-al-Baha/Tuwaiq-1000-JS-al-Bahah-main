@@ -7,6 +7,7 @@
 * [JS Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 * [JS Callbacks](https://www.w3schools.com/js/js_callback.asp)
 * [JS Array methods](https://www.w3schools.com/js/js_array_methods.asp)
+* [JS Array methods 2](https://javascript.info/array-methods)
 * [Array Iterator Methods](https://www.w3schools.com/js/js_array_iteration.asp)
 
 ### Labs
