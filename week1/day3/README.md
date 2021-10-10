@@ -9,7 +9,7 @@
 *  [Grid](https://www.dropbox.com/sh/e533hpeddk382u5/AAAPxAVCrZbX4e1n4QiSJUYUa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%205?dl=0&subfolder_nav_tracking=1)
 
 #### JavaScript ####
-*#### JavaScript:
+
 * [JS variables and operators](https://www.dropbox.com/sh/e533hpeddk382u5/AADiZOkY37Nw5anLF-3qN4U8a/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%208?dl=0&subfolder_nav_tracking=1)
 * [JS variables LAB](javascript-intro-lab)
 * 
