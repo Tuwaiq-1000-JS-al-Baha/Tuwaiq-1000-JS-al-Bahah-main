@@ -13,12 +13,12 @@
 * [HTML 2 Tables and Forms](https://www.dropbox.com/sh/e533hpeddk382u5/AADoJwZBvzkuUGj8XQuDzy4la/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%203/WD%20L1T03%20-%20HTML%20II.pdf)
 
 *  [HTML Buildings Lab](https://github.com/Tuwaiq-1000-JS-al-Baha/lab-htmlbuildingpractice)
-* 
+
 - [CSS Cookie Recipe Lab Code Along](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day1/cookie_recipe)
 
 ### Homework ### 
 
-* - [HTML and CSS hw](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_week1_day1_HTMLandCSS)
+* [HTML and CSS hw](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_week1_day1_HTMLandCSS)
 
 * 
 ### Additional Materials
