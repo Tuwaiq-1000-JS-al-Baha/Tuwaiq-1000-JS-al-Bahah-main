@@ -12,7 +12,7 @@
 
 ### Labs ###
 * [Bootstrap](Labs/Bootstrap)
-* [JS Functions](Labs/JS%20Functions)
+* [JS Conditionals Lab](Labs/JS%20Functions)
 
 ### Homework ###
 
