@@ -11,7 +11,7 @@
 #### JavaScript ####
 
 * [JS variables and operators](https://www.dropbox.com/sh/e533hpeddk382u5/AADiZOkY37Nw5anLF-3qN4U8a/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%208?dl=0&subfolder_nav_tracking=1)
-* [JS variables LAB](javascript-intro-lab)
+* [JS variables LAB](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day3/JS%20Labs)
 
 ### Labs ### 
 
