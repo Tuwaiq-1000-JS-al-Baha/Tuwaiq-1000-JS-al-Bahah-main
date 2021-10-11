@@ -12,18 +12,16 @@
 
 * [JS variables and operators](https://www.dropbox.com/sh/e533hpeddk382u5/AADiZOkY37Nw5anLF-3qN4U8a/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%208?dl=0&subfolder_nav_tracking=1)
 * [JS variables LAB](javascript-intro-lab)
-* 
-* [JS Conditionals](https://www.dropbox.com/sh/e533hpeddk382u5/AAAN-d9jfQtSUQcZ0MhV4Y6ha/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%209?dl=0&preview=WD+L1T09+-+JavaScript+II_+Conditional+Statements+%26+Looping.pdf&subfolder_nav_tracking=1) 
 
 ### Labs ### 
 
 * [Flexbox LAB](flexbox-lab)
-* [JS Conditionals LAB](conditionals-lab) 
+ 
 
 ### Homework ###
 
 * [Flexbox & Grid](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day3_Flexbox-Grid)
-* [JS Conditionals](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day3_JS-Conditionals)
+
 ### Additional Reading ###
 
 * [Flexbox and Grid](https://www.dropbox.com/sh/e533hpeddk382u5/AADo0uREzBbUymxDZW5JIlpCa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%204/Additional%20reading?dl=0&preview=CSSNotesForProfessionals.pdf&subfolder_nav_tracking=1) (chapter 16 and 24)
