@@ -12,7 +12,7 @@
 
 ### Labs ###
 * [Bootstrap](Labs/Bootstrap)
-* [JS Conditionals Lab](Labs/JS%20Functions)
+* [JS Conditionals Lab](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day4/Labs/JS%20Conditions)
 
 ### Homework ###
 
