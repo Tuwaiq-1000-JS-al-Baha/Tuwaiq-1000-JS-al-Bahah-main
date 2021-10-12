@@ -1,0 +1,18 @@
+.parent {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    height: 100px;
+    flex: 1 0;
+    background-color: tomato;
+}
+
+.el3 {
+    align-self: flex-start;
+}
+
+.parent div {
+    background-color: orange;
+}
