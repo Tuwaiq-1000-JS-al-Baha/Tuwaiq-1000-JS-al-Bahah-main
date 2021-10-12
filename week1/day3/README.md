@@ -21,7 +21,7 @@
 
 ### Homework ###
 
-* [Flexbox & Grid](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day3_Flexbox-Grid)
+*[JavaScript variables HW](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day3_JS_variables)
 
 ### Additional Reading ###
 
