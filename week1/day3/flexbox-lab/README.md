@@ -2,6 +2,8 @@
 
 Exercise Guide:
 
+* [Solution](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day3/flexbox-lab)
+
 Using the following HTML code and by making use of Flex boxes in your newly created CSS to give the following design to the contents of the HTML.
 
 * create an HTML file in a folder
