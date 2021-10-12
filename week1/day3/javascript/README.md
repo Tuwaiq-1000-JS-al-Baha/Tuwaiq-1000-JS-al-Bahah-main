@@ -1,0 +1,9 @@
+- go to kitchen
+- take eggs
+- mix eggs
+- take flour
+- mix with eggs
+- add sugar
+- put in oven
+- go back after 15 minutes
+- take out the cake
