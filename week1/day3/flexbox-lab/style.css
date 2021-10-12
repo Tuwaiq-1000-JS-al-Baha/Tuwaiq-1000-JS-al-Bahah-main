@@ -1,0 +1,16 @@
+.instructors {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px 25px;
+}
+
+.instructor {
+    background-color: antiquewhite;
+    border: 2px solid gray;
+    padding: 10px;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
