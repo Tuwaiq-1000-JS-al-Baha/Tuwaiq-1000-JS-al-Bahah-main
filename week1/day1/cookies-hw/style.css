@@ -1,0 +1,16 @@
+body {
+    background-color: #FFE;
+    border: 1px solid black;
+}
+
+.nutrition {
+    color: #887;
+}
+
+a {
+    color: #900;
+}
+
+img {
+    border: 20px solid black;
+}
