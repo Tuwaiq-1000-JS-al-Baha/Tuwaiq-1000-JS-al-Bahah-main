@@ -17,6 +17,7 @@
 * [JS variables LAB](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day3/JS%20Labs)
 * [JavaScript code](javascript)
 * [Flexbox LAB](flexbox-lab)
+* [Flexbox code](flexbox-code)
  
 
 ### Homework ###
