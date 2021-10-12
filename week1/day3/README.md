@@ -1,12 +1,12 @@
 
-# Week 1 Day 3 : Flexbox, Grid and JavaScript Introduction #
+# Week 1 Day 3 : Flexbox and JavaScript Introduction #
 
 ### Lectures ###
 
 #### Flexbox & Grid ####
 
 * [Flexbox](flexbox/Flexbox.pdf) 
-*  [Grid](https://www.dropbox.com/sh/e533hpeddk382u5/AAAPxAVCrZbX4e1n4QiSJUYUa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%205?dl=0&subfolder_nav_tracking=1)
+
 
 #### JavaScript ####
 
