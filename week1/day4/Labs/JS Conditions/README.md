@@ -1,4 +1,4 @@
-##Conditionals
+## Conditionals
 
 
 ### The World Translator
@@ -23,6 +23,8 @@ If it is a multiple of both 3 and 5, return “FizzBuzz” instead of the number
 
 Otherwise, return the number
 
+```js
 fizzBuzz(3) // Fizz
 fizzBuzz(15) // FizzBuzz
 fizzBuzz(7) // 7
+```
