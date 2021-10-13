@@ -24,6 +24,9 @@
 
 * [JavaScript variables HW](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day3_JS_variables)
 
+### Homework Solution
+* [JavaScript variables HW Solution](js_variables_hw)
+
 ### Additional Reading ###
 
 * [Flexbox and Grid](https://www.dropbox.com/sh/e533hpeddk382u5/AADo0uREzBbUymxDZW5JIlpCa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%204/Additional%20reading?dl=0&preview=CSSNotesForProfessionals.pdf&subfolder_nav_tracking=1) (chapter 16 and 24)
