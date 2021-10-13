@@ -1,0 +1,68 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.showcase {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-image: url("./beach.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; */
+    background: url("./beach4.jpg") no-repeat center center / cover;
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+}
+
+.showcase p {
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+}
+
+a {
+    display: inline-block;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: white;
+    padding: 16px 24px;
+    border-radius: 6px;
+    margin-top: 10px;
+    transition: all 0.3s linear;
+}
+
+a:hover {
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+}
+
+.section p {
+    padding: 0px 25px 30px 25px;
+}
+
+.section h2 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.section-a {
+    background-color: #c8ab9d;
+}
+
+.section-a p {
+    color: white;
+}
