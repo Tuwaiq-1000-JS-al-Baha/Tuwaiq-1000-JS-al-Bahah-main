@@ -17,4 +17,7 @@
 ### Homework ###
 
 
-* [Bootstrap](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day4_Bootstrap) 
+* [JS conditionals HW](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week1_Day4_FizzBuss_JSConditionals) 
+
+### Documentation
+* [Bootstrap docs](https://getbootstrap.com/docs/5.1/components/buttons/)
