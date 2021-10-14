@@ -14,12 +14,14 @@
 * [Responsive design](Resources/Responsive-Design.pdf)
 * [Pseudo class selectors](Resources/Pseudo-class-selectors.pdf)
 
+
 ### Labs ### 
 
 * [Javascript Functions LAB](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day5/Functions%20LAB)
 * [Javascript Functions LAB Solution](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day5/JS%20Functions%20LAB%20SOLUTION)
 
-* Code Along: **University Website**
+## Code Along: **University Website**
+* [University Website CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Week1_Day5_University_Website)
 
 ### Homework ###
 * [Responsive website](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_week01_day04_ResponsiveDesign)
