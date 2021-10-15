@@ -17,7 +17,7 @@
 
 * [JS Conditionals Lab](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day4/Labs/JS%20Conditions)
 
-* [Landing Page - Flexbox](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day4/landing-page-flexbox)
+* [Beach Landing Page - Flexbox](https://github.com/Tuwaiq-1000-JS-al-Baha/Week1_day4_flexbox_beach_landing_page)
 
 ### Homework ###
 
