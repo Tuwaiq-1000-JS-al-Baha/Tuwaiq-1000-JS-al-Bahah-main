@@ -10,9 +10,7 @@
 
 ### Labs ###
 
-* [JS Loops LAB](Labs/Loops%20Exercise.md)
-* [JS Arrays LAB](Labs/Arrays%20Exercise.md) 
-
+* [Travel-Video-Landing Page](https://github.com/Tuwaiq-1000-JS-al-Baha/travel-video-landing-page)
 
 
 
