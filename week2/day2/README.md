@@ -20,6 +20,5 @@
 * [JS Objects Lab](Labs/Objects_Lab.md)
 
 ### Homework 
-* [JS Arrays & Loops HW](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day1_Arrays_and_Loops)
 
 * [JS Objects Homework](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day2_Objects)
