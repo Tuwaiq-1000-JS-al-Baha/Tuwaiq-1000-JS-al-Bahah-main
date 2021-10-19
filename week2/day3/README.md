@@ -12,6 +12,7 @@
 
 ### Labs
 
+* [Array methods](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/blob/master/week2/day3/Labs/Arrays%20Exercise.md)
 * [Array Methods Lab](Labs/Array_methods_lab.md)
 
 ### Homework
