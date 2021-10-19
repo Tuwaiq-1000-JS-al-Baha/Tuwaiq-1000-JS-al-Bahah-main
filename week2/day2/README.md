@@ -19,7 +19,7 @@
 
 * [JS Objects Lab](Labs/Objects_Lab.md)
 
-### Labs Solution
+### Labs CODE
 
 * [JS Arrays and Loops](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day2/Loops%20Lab)
 * [JS Objects](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day2/Objects%20LAB)
