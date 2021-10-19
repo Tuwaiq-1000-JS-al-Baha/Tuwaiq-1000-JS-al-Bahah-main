@@ -10,7 +10,6 @@
 
 ### Labs
 
-* [Array Methods Lab](Labs/Array_methods_lab.md)
 
 ### Homework
 
