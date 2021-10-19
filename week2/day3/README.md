@@ -15,7 +15,7 @@
 
 ### Homework
 
-* [Arrays HW](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day1_Arrays_and_Loops)
+* [Arrays Methods HW](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week2_Day3_Array_methods)
 
 
 ### Additional Resources:
