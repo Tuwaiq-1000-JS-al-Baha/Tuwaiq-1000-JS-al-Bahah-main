@@ -1,6 +1,5 @@
 
-# Week 2 Day 3 : Scope, Arrow Functions and Array Methods
-
+# Week 2 Day 3 : Scope, Arrow Functions and Function Callbacks
 ### Lectures 
 
 * [JS Scope](https://www.w3schools.com/js/js_scope.asp)
@@ -11,6 +10,7 @@
 ### Labs
 
 * [Arrays LAB]
+* [Callbacks LAB]
 
 ### Homework
 
