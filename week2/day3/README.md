@@ -9,8 +9,9 @@
 
 ### Labs
 
-* [Arrays LAB]
-* [Callbacks LAB]
+* [Arrays LAB Exercise](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day3/Arrays%20Exercise)
+* [Callbacks LAB Exercise](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day3/Callbacks%20Exercise)
+* [Arrow Functions Exercise](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day3/Arrow%20Functions)
 
 ### Homework
 
