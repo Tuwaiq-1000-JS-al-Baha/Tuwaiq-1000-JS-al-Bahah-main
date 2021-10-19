@@ -10,6 +10,7 @@
 
 ### Labs
 
+* [Arrays LAB]
 
 ### Homework
 
