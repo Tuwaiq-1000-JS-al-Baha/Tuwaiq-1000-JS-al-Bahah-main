@@ -14,7 +14,7 @@
 
 ### Labs
 
-* [Array Methods LAB]
+* [Array Methods LAB](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day4/Array%20Methods%20LAB)
 
 * [DOM Lab](Labs/DOM/changeTheLogo_LAB.md)
 * [jQuery Lab](Labs/JQuery)
