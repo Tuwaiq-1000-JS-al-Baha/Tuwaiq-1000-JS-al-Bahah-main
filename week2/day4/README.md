@@ -16,8 +16,8 @@
 
 
 ### Labs CODE
-* [ Array Methods CODE]()
-* [Run Tracker]()
+* [ Array Methods CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day4/Array%20Methods%20LAB/array%20methods)
+* [Run Tracker](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day4/Run%20Tracker%20CODE/run-tracker)
 
 
 ### Homework
