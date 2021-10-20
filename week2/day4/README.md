@@ -26,5 +26,7 @@
 
 ## Additional Resources
 * [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+* [Javascript  in Arabic part 1](https://www.dropbox.com/s/kiv2wpmum7wen5s/JavaScript01.pdf?dl=0)
+* [Javascript in Arabic part 2](https://www.dropbox.com/s/u38a6sxnygna8ef/JavaScript02Ver2.pdf?dl=0)
 
 
