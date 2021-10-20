@@ -9,7 +9,7 @@
 
 ### Labs 
 
-* [DOM Lab](Labs/DOM/changeTheLogo_LAB.md)
+* [DOM Lab](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week2/day5/DOM%20LAB)
 * [To-Do List](To-Do%20List)
 
 
