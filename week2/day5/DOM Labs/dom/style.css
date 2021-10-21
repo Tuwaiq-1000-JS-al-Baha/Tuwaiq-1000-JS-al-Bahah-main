@@ -1,0 +1,17 @@
+.mybtn {
+    display: inline-block;
+    padding: 16px 24px;
+    background-color: aliceblue;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.mybtn:hover {
+    background-color: aqua;
+    color: white;
+}
+
+.myp {
+    color: blue;
+}
