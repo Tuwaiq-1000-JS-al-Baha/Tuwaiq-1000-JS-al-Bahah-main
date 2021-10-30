@@ -1,0 +1,15 @@
+/* Global */
+
+h1 {
+    color: red;
+}
+
+ul {
+    list-style: none;
+}
+
+/* Home */
+
+.home-text {
+    font-size: 50px;
+}
