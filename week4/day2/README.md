@@ -15,7 +15,7 @@
 
 #### LocalStorage:
 - [LocalStorage LAB](LAB/localStorage_cookies)
-- [Todo List with localStorage](LAB/TodoWithLocalStorage)
+
 
 ### Extra:
 
