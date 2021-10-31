@@ -1,4 +1,4 @@
-## Week 4 Day 2: Axios & Fetch GET + POST LAB + localStorage
+## Week 4 Day 2: Axios & Fetch GET + POST LAB + Promises + localStorage
 
 ### LAB:
 
