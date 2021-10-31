@@ -9,7 +9,7 @@
 - [Rest API](https://phpenthusiast.com/blog/what-is-rest-api)
 
 ### Diagrams
- HTTP explanation](picture 3)
+ ![HTTP explanation](Screen Shot 2021-10-31 at 18.33.08.png)
 HTTP REST API GET example (picture 2)
 HTTP REST API POST example (picture 1)
 
