@@ -9,11 +9,11 @@
 - [Rest API](https://phpenthusiast.com/blog/what-is-rest-api)
 
 ### Diagrams
- (picture 3)
+ HTTP explanation](picture 3)
 HTTP REST API GET example (picture 2)
 HTTP REST API POST example (picture 1)
 
-![HTTP explanation](Screen Shot 2021-10-31 at 18.32.37.png)
+
 
 
 ### Labs:
