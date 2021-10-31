@@ -8,18 +8,13 @@
 - [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#server_error_responses)
 - [Rest API](https://phpenthusiast.com/blog/what-is-rest-api)
 
-### Diagrams
- ![HTTP explanation](https://files.slack.com/files-pri/T02FM3FE1DJ-F02L1QE2MU1/download/screen_shot_2021-10-31_at_18.32.37.png)
-HTTP REST API GET example (picture 2)
-HTTP REST API POST example (picture 1)
-
-
 
 
 ### Labs:
 
 * [Dog API](https://dog.ceo/dog-api/)
 * [Memes API](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week3_Day1_AJAX))
+* [AXIOS](https://github.com/axios/axios) 
 
 
 
