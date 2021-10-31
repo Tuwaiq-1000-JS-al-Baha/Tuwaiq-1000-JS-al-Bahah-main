@@ -9,6 +9,9 @@
 - [Rest API](https://phpenthusiast.com/blog/what-is-rest-api)
 
 
+### Diagrams
+- [HTTP + HTTP-GET + HTTP-POST](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day1/Diagrams-HTTP)
+
 
 ### Labs:
 
