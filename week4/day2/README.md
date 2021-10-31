@@ -10,6 +10,9 @@
 - [GET + POST Users (working) with Fetch](LAB/users-api-fetch)
 - [GET + POST Users (working) with Axios](LAB/users-api-axios)
 
+-#### Promise:
+- [Promise](https://javascript.info/promise-basics)
+
 #### LocalStorage:
 - [LocalStorage LAB](LAB/localStorage_cookies)
 - [Todo List with localStorage](LAB/TodoWithLocalStorage)
@@ -17,5 +20,7 @@
 ### Extra:
 
 - [Public APIs](https://github.com/public-apis/public-apis)
-
 - [Very cool article about GET + POST](https://github.com/oliverjam/real-world-fetch)
+- [Promise Resources](https://www.w3schools.com/js/js_promise.asp)
+- [Promise article](https://medium.com/jspoint/javascript-promises-and-async-await-as-fast-as-possible-d7c8c8ff0abc)
+
