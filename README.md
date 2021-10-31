@@ -153,5 +153,5 @@ Curriculum schedule is subject to change at instructor's discretion.
 
 | Week | Day  | Materials | Recordings | Password | 
 |------| ---- | ------ | ------ | ------ | 
-| Week4-SupportHours | Saturday | [ToDo List](https://safcsp-org-sa.zoom.us/rec/play/gMYaZqbrNpfUULUbQZ3Trq47U4mini3zggFBs_UgGFjeeeX5[…]613068614.9307a9f2707f6e8d19b3c39d7af9fdbb&_x_zm_rhtaid=95)  | 4PCP#9nX| 
-| 4.   | 1 | ----- | [AJAX + Fetch-P1](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/EYbsArDpSWNPuFU4CuUKqKEB0o0tNSgTw3_06eX6fTyjYA?e=rFhwH0) | dfO352*$Zr8 |
+| Week4-SupportHours | Saturday | ----- | [ToDo List](https://safcsp-org-sa.zoom.us/rec/play/gMYaZqbrNpfUULUbQZ3Trq47U4mini3zggFBs_UgGFjeeeX5[…]613068614.9307a9f2707f6e8d19b3c39d7af9fdbb&_x_zm_rhtaid=95)  | 4PCP#9nX| 
+|  4  | 1 | ----- | [AJAX + Fetch-P1](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/EYbsArDpSWNPuFU4CuUKqKEB0o0tNSgTw3_06eX6fTyjYA?e=rFhwH0) | dfO352*$Zr8 |
