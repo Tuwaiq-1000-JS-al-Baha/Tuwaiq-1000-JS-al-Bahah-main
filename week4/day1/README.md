@@ -13,7 +13,7 @@
 ### Labs:
 
 * [Dog API](https://dog.ceo/dog-api/)
-* [Memes API](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week3_Day1_AJAX))
+* [Memes API](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week3_Day1_AJAX)
 * [AXIOS](https://github.com/axios/axios) 
 
 
