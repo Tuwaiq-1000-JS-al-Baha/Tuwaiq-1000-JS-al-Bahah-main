@@ -10,7 +10,7 @@
 - [GET + POST Users (working) with Fetch](LAB/users-api-fetch)
 - [GET + POST Users (working) with Axios](LAB/users-api-axios)
 
--#### Promise:
+#### Promise:
 - [Promise](https://javascript.info/promise-basics)
 
 #### LocalStorage:
