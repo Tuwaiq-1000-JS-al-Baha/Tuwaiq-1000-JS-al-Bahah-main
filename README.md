@@ -153,7 +153,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 
 | Week | Day  | Materials | Recordings | Password | 
 |------| ---- | ------ | ------ | ------ | 
-| **W4-SupportHours** | **Saturday** | ----- | [ToDo List](https://safcsp-org-sa.zoom.us/rec/play/gMYaZqbrNpfUULUbQZ3Trq47U4mini3zggFBs_UgGFjeeeX5e82BkCCqovu3HDVurT-aFkGBB-QoS1tR.Rxj5-oCVcm0E-kvg?continueMode=true&_x_zm_rtaid=0CUiGgo2TiWgBRXZi_WN6g.1635613068614.9307a9f2707f6e8d19b3c39d7af9fdbb&_x_zm_rhtaid=95)  | 4PCP#9nX| 
-|  **4**  | **1** | ----- | [AJAX + Fetch-P1](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/EYbsArDpSWNPuFU4CuUKqKEB0o0tNSgTw3_06eX6fTyjYA?e=rFhwH0)| dfO352*$Zr8 |
+| 3 | Support Hours | ----- | [ToDo List](https://safcsp-org-sa.zoom.us/rec/play/gMYaZqbrNpfUULUbQZ3Trq47U4mini3zggFBs_UgGFjeeeX5e82BkCCqovu3HDVurT-aFkGBB-QoS1tR.Rxj5-oCVcm0E-kvg?continueMode=true&_x_zm_rtaid=0CUiGgo2TiWgBRXZi_WN6g.1635613068614.9307a9f2707f6e8d19b3c39d7af9fdbb&_x_zm_rhtaid=95)  | 4PCP#9nX| 
+|  4  | 1 | ----- | [AJAX + Fetch-P1](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/EYbsArDpSWNPuFU4CuUKqKEB0o0tNSgTw3_06eX6fTyjYA?e=rFhwH0)| dfO352*$Zr8 |
 | | | | [AJAX + Fetch-P2](https://safcsp-org-sa.zoom.us/rec/share/S7g5q7m0aqdpyGQSMsZE86bLfElrj-bZmF9z5T3XQoOX-gHyLyHyMTaLD-V2dg-Y.wBbsTW5Oebd--RGy)|s5su+mQH|
 | | | | [AJAX + Fetch-P3](https://safcsp-org-sa.zoom.us/rec/share/T38QYG15Kyqo2ognqCOarYFTbAy2PIvPVRriPpsQq3Ev8QUegsTrh1kaCIiYtCqX.322ZALbeUwT6ZJnz)|0rg5vy?p|
