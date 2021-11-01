@@ -1,0 +1,11 @@
+ .item-li{
+    display: inline;
+} 
+
+.input-edit{
+    display: none;
+}
+
+.confirm-btn{
+    display: none;
+}
