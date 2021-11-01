@@ -6,9 +6,14 @@
 - [Dog API random image](LAB/dogs-random-image)
 - [Post GET + POST (fake) with Axios](LAB/posts/axios.html)
 - [Post GET + POST (fake) with Fetch](LAB/posts/fetch.html)
-- [Pokemon search by name](LAB/search-name-form)
 - [GET + POST Users (working) with Fetch](LAB/users-api-fetch)
 - [GET + POST Users (working) with Axios](LAB/users-api-axios)
+
+### API's
+
+- [weather api](https://openweathermap.org/api)
+- [News API](https://newsapi.org/docs/get-started)
+- [ReqRes API](https://reqres.in/)
 
 #### Promise:
 - [Promise](https://javascript.info/promise-basics)
