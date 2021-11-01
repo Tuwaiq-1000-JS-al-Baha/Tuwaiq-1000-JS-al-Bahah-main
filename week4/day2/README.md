@@ -1,4 +1,4 @@
-## Week 4 Day 2: Axios & Fetch GET + POST LAB + Promises + localStorage
+## Week 4 Day 2: Axios & Fetch GET + POST LAB + Promises 
 
 ### LAB:
 
@@ -13,8 +13,6 @@
 #### Promise:
 - [Promise](https://javascript.info/promise-basics)
 
-#### LocalStorage:
-- [LocalStorage LAB](LAB/localStorage_cookies)
 
 
 ### Extra:
