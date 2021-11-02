@@ -14,9 +14,12 @@
 - [weather api](https://openweathermap.org/api)
 - [News API](https://newsapi.org/docs/get-started)
 - [ReqRes API](https://reqres.in/)
+- [Weather API SOLUTION]()
+- [ReqRes User API]()
 
 #### Promise:
 - [Promise](https://javascript.info/promise-basics)
+- [Promises LAB]()
 
 
 
