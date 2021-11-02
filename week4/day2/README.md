@@ -9,13 +9,15 @@
 - [GET + POST Users (working) with Fetch](LAB/users-api-fetch)
 - [GET + POST Users (working) with Axios](LAB/users-api-axios)
 
-### API's
+### API documentations:
 
 - [weather api](https://openweathermap.org/api)
 - [News API](https://newsapi.org/docs/get-started)
 - [ReqRes API](https://reqres.in/)
-- [Weather API SOLUTION](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day2/SOLUTIONS/weather-app)
-- [ReqRes User API](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day2/SOLUTIONS/users-api)
+
+### Code:
+- [Weather API CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day2/SOLUTIONS/weather-app)
+- [Users API CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day2/SOLUTIONS/users-api)
 
 #### Promise:
 - [Promise](https://javascript.info/promise-basics)
