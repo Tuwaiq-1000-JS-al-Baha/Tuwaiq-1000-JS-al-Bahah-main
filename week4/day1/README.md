@@ -17,7 +17,11 @@
 
 * [Dog API](https://dog.ceo/dog-api/)
 * [Memes API](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week3_Day1_AJAX)
+* [DOG API SOLUTION]()
+* [MEMES API SOLUTION]()
 * [AXIOS](https://github.com/axios/axios) 
+
+
 
 
 
