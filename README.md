@@ -158,5 +158,6 @@ Curriculum schedule is subject to change at instructor's discretion.
 | | | | |[AJAX + Fetch-P2](https://safcsp-org-sa.zoom.us/rec/share/S7g5q7m0aqdpyGQSMsZE86bLfElrj-bZmF9z5T3XQoOX-gHyLyHyMTaLD-V2dg-Y.wBbsTW5Oebd--RGy)|s5su+mQH|
 | | | | |[AJAX + Fetch-P3](https://safcsp-org-sa.zoom.us/rec/share/T38QYG15Kyqo2ognqCOarYFTbAy2PIvPVRriPpsQq3Ev8QUegsTrh1kaCIiYtCqX.322ZALbeUwT6ZJnz)|0rg5vy?p|
 | 4 | 2 | AXIOS GET| [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day2) | [REC](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/Efy2K_5A7fZOqYiY2-msBVgBRi78-s1zS59xWk-gKdt8vg?e=UGloa4) | fAH4e3d7"’&G*EIh | 
-| 4 | 3 | AXIOS GET + POST + DELETE | ----- | [REC](https://safcsp-org-sa.zoom.us/rec/share/QRJNxy6JLldOuKZJWPuNWx_-hAwvyovaQa-R9ShGBkt61H71EIRGFUZ17uXDLusQ.MC699keylq9tSDHm?startTime=1635833832000) | BfkLn9T. |
-| 4 | 4 | AXIOS PUT | [CODE] | [REC] | |
+| 4 | 3 | AXIOS GET + POST + DELETE | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day3) | [REC](https://safcsp-org-sa.zoom.us/rec/share/QRJNxy6JLldOuKZJWPuNWx_-hAwvyovaQa-R9ShGBkt61H71EIRGFUZ17uXDLusQ.MC699keylq9tSDHm?startTime=1635833832000) | BfkLn9T. |
+| 4 | 4 | AXIOS PUT | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day4) | [REC](https://safcsp-org-sa.zoom.us/rec/share/UkjJN8LTmgqWwlRSor3HkjsdAf06OUkICjdPt9Zr_e0x8JbiNX6VTW2eiCefpEdn.F78tEYIra_WSZCOI) | |%5P3&#i1 |
+| | | | |[HW REC](https://safcsp-org-sa.zoom.us/rec/share/wLpmLlllp55Q3QPVYKMIhHreV9l_BJXYtiVPuHGde870TuwgVIcLWfyJESEoGZTb.GP-2LyWoeljCNoSm) | pgmq!A68|
