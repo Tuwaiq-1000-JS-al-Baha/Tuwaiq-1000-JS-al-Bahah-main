@@ -1,11 +1,4 @@
 
-# Week 4 Day 4 : React Event Handling and React State Lifting 
+# Week 4 Day 4 : HTTP METHODS REVIEW AND AXIOUS PUT 
 
-### Lectures and Labs
-* [React Event Handling - To Do List with Delete](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day4/To%20Do%20List%20w%20Delete%20Lab)
-* [React State Lifting - Fruits App](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day4/Fruits%20Lab) 
-
-### Homework 
- * [React State Lifting Film HW](https://github.com/Tuwaiq-1000-JS-al-Baha/HW_Week4_Day4_React-State-Lifting) 
-
-### Additional Resources 
+- [PRODUCTS API]()
