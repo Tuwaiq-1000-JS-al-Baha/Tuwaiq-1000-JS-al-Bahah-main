@@ -2,3 +2,8 @@
 # Week 4 Day 4 : HTTP METHODS REVIEW AND AXIOUS PUT 
 
 - [PRODUCTS API]()
+
+
+
+### Homework
+-[POSTS with COMMENTS API]
