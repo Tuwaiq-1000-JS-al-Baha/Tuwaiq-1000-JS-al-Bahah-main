@@ -11,7 +11,7 @@
 * [Ghibli Studios - GET](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day1/Ghibli%20Solution)
 * [Weather API  GET](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day2/SOLUTIONS/weather-app)
 * [Users API- GET](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day2/SOLUTIONS/users-api)
-* [Products API- GET+POST+PUT+DELETE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day3/products-api)
+* [Products API- GET+POST+PUT+DELETE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day4/products-api)
 
 
 ### Homework
