@@ -3,7 +3,8 @@
 
 ### Lectures 
 
-*
+* [localStorage]()
+* [JWT authentication](https://jwt.io/introduction)
 
 ### Labs
 
