@@ -162,3 +162,4 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 4 | 4 | AXIOS PUT | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day4) | [REC](https://safcsp-org-sa.zoom.us/rec/share/UkjJN8LTmgqWwlRSor3HkjsdAf06OUkICjdPt9Zr_e0x8JbiNX6VTW2eiCefpEdn.F78tEYIra_WSZCOI) | %5P3&#i1 |
 | | | | |[HW REC](https://safcsp-org-sa.zoom.us/rec/share/wLpmLlllp55Q3QPVYKMIhHreV9l_BJXYtiVPuHGde870TuwgVIcLWfyJESEoGZTb.GP-2LyWoeljCNoSm) | pgmq!A68|
 | 4 | 5 | localStorage & JWT auth | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day5) | [REC](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/EbBDaimEW6hGpL3B3d35SvwBh_xAMzu3JJT93zk8T43W2g?e=K1NHSW) | FSs8$*Ut3u1 |
+| 4 | Support Hours | Posts API | [CODE] | [REC](https://safcsp-org-sa.zoom.us/rec/share/tV5zCfMoMCSuAfz_ccRjGIjdzIk-AmIWeod65l9lmKNFmTyc9Uud-YQn8rpBnn_O.fqZ5g6mCaXVc7hU6)| S6X@.gpU|
