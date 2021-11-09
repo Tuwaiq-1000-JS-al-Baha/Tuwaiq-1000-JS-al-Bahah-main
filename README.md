@@ -163,3 +163,6 @@ Curriculum schedule is subject to change at instructor's discretion.
 | | | | |[HW REC](https://safcsp-org-sa.zoom.us/rec/share/wLpmLlllp55Q3QPVYKMIhHreV9l_BJXYtiVPuHGde870TuwgVIcLWfyJESEoGZTb.GP-2LyWoeljCNoSm) | pgmq!A68|
 | 4 | 5 | localStorage & JWT auth | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week4/day5) | [REC](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/EbBDaimEW6hGpL3B3d35SvwBh_xAMzu3JJT93zk8T43W2g?e=K1NHSW) | FSs8$*Ut3u1 |
 | 4 | Support Hours | Posts API | [CODE] | [REC](https://safcsp-org-sa.zoom.us/rec/share/tV5zCfMoMCSuAfz_ccRjGIjdzIk-AmIWeod65l9lmKNFmTyc9Uud-YQn8rpBnn_O.fqZ5g6mCaXVc7hU6)| S6X@.gpU|
+| 5 | 1 | Posts API with token | [CODE]() | [REC]() | |
+| 5 | 2 | Intro to React + Props and React States | [CODE]() | [REC]() | |
+| 5 | 3 | React States and React State Lifting | [CODE]()| [REC]() | |
