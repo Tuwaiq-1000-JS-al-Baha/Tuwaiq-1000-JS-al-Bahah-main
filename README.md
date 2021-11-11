@@ -167,5 +167,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 5 | 2 | Intro to React + Props and React States | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week5/day2) | [REC](https://safcsp-org-sa.zoom.us/rec/share/TNamO1x1AsABb2vvTRD2xln59BeNoR_gXUAcqF0ONEFjiUtCzXOaPTNX68bVb_7x.wWcy42tgcvKhMefW) | Y1E&npQh |
 | 5 | 3 | React States, React State Lifting and React Bootstrap| [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week5/day3)| [REC PartI](https://safcsp-org-sa.zoom.us/rec/share/J0W5MDGNDB4KROMN-Ie-Kz5lbylMT5doIg0Yu2mDnZqyMvSQM2gFhm9Up29tPlpA.VYKAhYye6VcAge8e) |xFRT$02Z |
 | | | | | [REC Part2](https://safcsp-org-sa.zoom.us/rec/share/F0lbQNdzAJH07_Skj7f9hqRhZUVAdi1PZr2je-PkyQsj5D-VNXwLB44c5W0hZoY_.GIYbV-pnMhxynmlf) | aAP+9sfB | 
-| 5 | 4 | React Bootstrap and React Fetch | [CODE]() | [REC]() | |
+| 5 | 4 | React Bootstrap and React Fetch | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week5/day4) | [REC](https://safcsp-org-sa.zoom.us/rec/share/uLsrVVURdlWJz2Zc480VBS4GqnL3l0f3XMU5FkZm9iFNqXvnd-8tjlMcPmsMPHGG.032eboc4o0Nxl06h) | |
+| 5 | 5 | React Router and CRUD operations using React | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week5/day5) | [REC](https://safcsp-org-sa.zoom.us/rec/share/DjC9dtBCzqx7_Npd2FADvHCtzcFS86L-j7Z56cutc717QGY5P2E8vpj62pqeFwwe.-TvFgjnsYbZgodU4
+) | 77Qe.ZTc|
 
