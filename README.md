@@ -170,7 +170,5 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 5 | 4 | React Bootstrap and React Fetch | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week5/day4) | [REC](https://safcsp-org-sa.zoom.us/rec/share/uLsrVVURdlWJz2Zc480VBS4GqnL3l0f3XMU5FkZm9iFNqXvnd-8tjlMcPmsMPHGG.032eboc4o0Nxl06h) | 31Yy5*3F |
 | 5 | 5 | React Router and CRUD operations using React | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week5/day5) | [REC](https://safcsp-org-sa.zoom.us/rec/share/DjC9dtBCzqx7_Npd2FADvHCtzcFS86L-j7Z56cutc717QGY5P2E8vpj62pqeFwwe.-TvFgjnsYbZgodU4) | 77Qe.ZTc|
 | 5 | Support Hours |React Fetch - Products | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/RHpis1Mq8EW8EjjcSZu6z8iH4-OEe2GL03EFgdD5-Sn2MBI2UkDL9P74iPWh6Ttm.DLCLM-gO6XO4MHqD) | k6X=EsDD |
-| 6 | 1 | React Fetch Products with auth | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/IMli_e1gVIrfmNeem9HxkMVBwZQKFWSkE1DFtBqlJDJJOn4yotnrMMPDHuFPK0Il.kXdF4miSl-3iXU2r
-) |p?Ek@5v= | 
-| 6 | 2 | React Fetch - Posts | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/2fMrwpXYBGvCUdmJkEpvXFSfzFxKM7UzFDjFLLhieQ2_49ameglg3_6w65XJJkLg.Xo3f4I_XvIooszac
-) | w4J9t?Gu| 
+| 6 | 1 | React Fetch Products with auth | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/IMli_e1gVIrfmNeem9HxkMVBwZQKFWSkE1DFtBqlJDJJOn4yotnrMMPDHuFPK0Il.kXdF4miSl-3iXU2r) |p?Ek@5v= | 
+| 6 | 2 | React Fetch - Posts | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/2fMrwpXYBGvCUdmJkEpvXFSfzFxKM7UzFDjFLLhieQ2_49ameglg3_6w65XJJkLg.Xo3f4I_XvIooszac) | w4J9t?Gu| 
