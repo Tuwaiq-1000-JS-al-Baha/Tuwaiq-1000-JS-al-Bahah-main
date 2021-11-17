@@ -6,4 +6,4 @@
 
 
 ### Resources 
-* [React useEffect()]-(https://dmitripavlutin.com/react-useeffect-explanation/)
+* [React useEffect](https://dmitripavlutin.com/react-useeffect-explanation/)
