@@ -10,4 +10,4 @@
 * API
 
 ### Labs 
-* [Revised concepts]()
+* [Revised concepts](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week8/day1/revision)
