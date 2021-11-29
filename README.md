@@ -172,3 +172,9 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 5 | Support Hours |React Fetch - Products | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/RHpis1Mq8EW8EjjcSZu6z8iH4-OEe2GL03EFgdD5-Sn2MBI2UkDL9P74iPWh6Ttm.DLCLM-gO6XO4MHqD) | k6X=EsDD |
 | 6 | 1 | React Fetch Products with auth | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/IMli_e1gVIrfmNeem9HxkMVBwZQKFWSkE1DFtBqlJDJJOn4yotnrMMPDHuFPK0Il.kXdF4miSl-3iXU2r) |p?Ek@5v= | 
 | 6 | 2 | React Fetch - Posts | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/2fMrwpXYBGvCUdmJkEpvXFSfzFxKM7UzFDjFLLhieQ2_49ameglg3_6w65XJJkLg.Xo3f4I_XvIooszac) | w4J9t?Gu| 
+| 6  | Project | Project Week | Project | Recordings | |
+| Week 6 | Support Hours | | [CODE]() | [REC]() | | 
+|Week 7 | Project Week and Presentation | | - | [REC]() | |
+|Week 8 | 1 | Revision-Unit 1 | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/p9-RU2X3GDwkRHC9fGo6uvXwPvU19PLYys5SKu0cEJqZVSJoRUXtQky-gU_0PdK9.dleHEU-MxzABnzCO
+) | 63mNb^#U|
+|Week 8 | 2 | Express and Node.js | [CODE]() | [REC]() | | 
