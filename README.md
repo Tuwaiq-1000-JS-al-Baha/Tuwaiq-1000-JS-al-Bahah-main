@@ -173,7 +173,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 6 | 1 | React Fetch Products with auth | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/IMli_e1gVIrfmNeem9HxkMVBwZQKFWSkE1DFtBqlJDJJOn4yotnrMMPDHuFPK0Il.kXdF4miSl-3iXU2r) |p?Ek@5v= | 
 | 6 | 2 | React Fetch - Posts | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/2fMrwpXYBGvCUdmJkEpvXFSfzFxKM7UzFDjFLLhieQ2_49ameglg3_6w65XJJkLg.Xo3f4I_XvIooszac) | w4J9t?Gu| 
 | 6  | Project | Project Week | [Project](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week6) | Recordings | |
-|  6 | Support Hours | | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/W09hBZ5fzZcWy35Vj1hF86sUztqR3snzVjjucNzjNX9CnJsYPlWEOuPO8Smvocmp.sMWX9sA5ao3sVxYa) | i2S#EA.7| 
+|  6 | Support Hours | jQuery | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/W09hBZ5fzZcWy35Vj1hF86sUztqR3snzVjjucNzjNX9CnJsYPlWEOuPO8Smvocmp.sMWX9sA5ao3sVxYa) | i2S#EA.7| 
 | 7 | 3 | OOP | [CODE]() | [REC](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/EVLM4q87BZBOpRF7MWJaM-oBbDDX5Z50euhFYVkNy82Asw?) |dY6tSvg40*T3 | 
 |7 | Project Week and Presentation | | - | [REC]() | |
 | 7 | Support Hours | Revision | [CODE]() | [REC](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/ETihfsdZC_1Pu9FZEPjhcmYBfTiTyZvI7mfaY6urrQfUag?e=aRoVqF) | Ue6gSJo3à-|
