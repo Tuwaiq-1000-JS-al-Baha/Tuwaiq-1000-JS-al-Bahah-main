@@ -172,8 +172,10 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 5 | Support Hours |React Fetch - Products | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/RHpis1Mq8EW8EjjcSZu6z8iH4-OEe2GL03EFgdD5-Sn2MBI2UkDL9P74iPWh6Ttm.DLCLM-gO6XO4MHqD) | k6X=EsDD |
 | 6 | 1 | React Fetch Products with auth | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/IMli_e1gVIrfmNeem9HxkMVBwZQKFWSkE1DFtBqlJDJJOn4yotnrMMPDHuFPK0Il.kXdF4miSl-3iXU2r) |p?Ek@5v= | 
 | 6 | 2 | React Fetch - Posts | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/2fMrwpXYBGvCUdmJkEpvXFSfzFxKM7UzFDjFLLhieQ2_49ameglg3_6w65XJJkLg.Xo3f4I_XvIooszac) | w4J9t?Gu| 
-| 6  | Project | Project Week | Project | Recordings | |
-| Week 6 | Support Hours | | [CODE]() | [REC]() | | 
+| 6  | Project | Project Week | [Project](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week6) | Recordings | |
+| Week 6 | Support Hours | | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/W09hBZ5fzZcWy35Vj1hF86sUztqR3snzVjjucNzjNX9CnJsYPlWEOuPO8Smvocmp.sMWX9sA5ao3sVxYa) | i2S#EA.7| 
+|Week 7 | 3 | OOP | [CODE]() | [REC](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/EVLM4q87BZBOpRF7MWJaM-oBbDDX5Z50euhFYVkNy82Asw?) |dY6tSvg40*T3 | 
 |Week 7 | Project Week and Presentation | | - | [REC]() | |
+|Week 7 | Support Hours | Revision | [CODE]() | [REC](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/ETihfsdZC_1Pu9FZEPjhcmYBfTiTyZvI7mfaY6urrQfUag?e=aRoVqF) | Ue6gSJo3à-|
 |Week 8 | 1 | Revision-Unit 1 | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/p9-RU2X3GDwkRHC9fGo6uvXwPvU19PLYys5SKu0cEJqZVSJoRUXtQky-gU_0PdK9.dleHEU-MxzABnzCO) | 63mNb^#U|
 |Week 8 | 2 | Express and Node.js | [CODE]() | [REC]() | | 
