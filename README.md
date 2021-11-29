@@ -175,6 +175,5 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 6  | Project | Project Week | Project | Recordings | |
 | Week 6 | Support Hours | | [CODE]() | [REC]() | | 
 |Week 7 | Project Week and Presentation | | - | [REC]() | |
-|Week 8 | 1 | Revision-Unit 1 | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/p9-RU2X3GDwkRHC9fGo6uvXwPvU19PLYys5SKu0cEJqZVSJoRUXtQky-gU_0PdK9.dleHEU-MxzABnzCO
-) | 63mNb^#U|
+|Week 8 | 1 | Revision-Unit 1 | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/p9-RU2X3GDwkRHC9fGo6uvXwPvU19PLYys5SKu0cEJqZVSJoRUXtQky-gU_0PdK9.dleHEU-MxzABnzCO) | 63mNb^#U|
 |Week 8 | 2 | Express and Node.js | [CODE]() | [REC]() | | 
