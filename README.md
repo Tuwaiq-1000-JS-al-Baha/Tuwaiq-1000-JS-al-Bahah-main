@@ -178,4 +178,5 @@ Curriculum schedule is subject to change at instructor's discretion.
 |7 | Project Week and Presentation | | - | [REC]() | |
 | 7 | Support Hours | Revision | [CODE]() | [REC](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/ETihfsdZC_1Pu9FZEPjhcmYBfTiTyZvI7mfaY6urrQfUag?e=aRoVqF) | Ue6gSJo3à-|
 |8 | 1 | Revision-Unit 1 | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week8/day1) | [REC](https://safcsp-org-sa.zoom.us/rec/share/p9-RU2X3GDwkRHC9fGo6uvXwPvU19PLYys5SKu0cEJqZVSJoRUXtQky-gU_0PdK9.dleHEU-MxzABnzCO) | 63mNb^#U|
-| 8 | 2 | Express and Node.js | [CODE]() | [REC]() | | 
+| 8 | 2 | Express and Node.js | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/Gvg6x8yX1Mg8M2YNbiU1Yp4C0VSStZHzSC31v3kvZ_JbQI4LpuBINt2x4EFWxAEF.VU1GYqABnL77NgX5) | 25h.*Lgs | 
+| 8 | 3 | Express and Mongoose | [CODE]() | [REC]() | | 
