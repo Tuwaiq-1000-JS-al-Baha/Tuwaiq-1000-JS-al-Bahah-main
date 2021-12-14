@@ -183,6 +183,14 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 8 | 4 | Express with Mongoose auth | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/SlrvEMi5psD9b3aMf940vuGxWJpEQ6NtZPWbgmOkkm9nqwAtAKFbpYVpGwLlUWjP.j2O6wvA5ZMO3nurH) |m$=au7!5 | 
 | 8 | 5 | Express API - authentication + React| [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/UaMt8HEkO5nhlntRO4Qz2rFCA-WEs_rMXj5q8yhKu3CeQVTtjMWq-xiSL0x-2VC7.ZDqS92t9zhtuBzwK) | V1^a9fKE| 
 | 8 | Support Hours | |[CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/9_qFmSfHUFHoBCch1kAqtV9ybh9NTtwTyOfyatrQyp0S7romlgAGMb0Lh4bzxa0.9ObZnEmICLuDpRoZ) | 1IxB?mA+| 
-| 9 | 1 | Films API (Express + Mongoose) | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/tcTdLib_eACEtRrMS_bvJTZ2g9v48tDsFyuF4xUjo9Gl9eoB5jCTq-Cbedq-R27_.3fr6Scd-v9uhL2vS) |EvW73*C% | 
-| 9 | 2 | Films API (Express + Mongoose) | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/kPTQ7VHHZ-o4YNCsPCsvMoo0UTkYeX2ZW5toYVv2KZsOGjz_hUx4V14Myi_O5JSn.HcqN8296xw4EuB_g) |gAP%HiC3 | 
-| 9 | 3 | Films API (Express + Mongoose) | [CODE]() | [REC]() | | 
+| 9 | 1 | Films API (Express + Mongoose) | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/react-films) | [REC](https://safcsp-org-sa.zoom.us/rec/share/tcTdLib_eACEtRrMS_bvJTZ2g9v48tDsFyuF4xUjo9Gl9eoB5jCTq-Cbedq-R27_.3fr6Scd-v9uhL2vS) |EvW73*C% | 
+| 9 | 2 | Films API (Express + Mongoose) | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/react-films) | [REC](https://safcsp-org-sa.zoom.us/rec/share/kPTQ7VHHZ-o4YNCsPCsvMoo0UTkYeX2ZW5toYVv2KZsOGjz_hUx4V14Myi_O5JSn.HcqN8296xw4EuB_g) |gAP%HiC3 | 
+| 9 | 3 | Films API (Express + Mongoose) | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/react-films) | [REC](https://safcsp-org-sa.zoom.us/rec/share/79TsFM__xex1l0pxG8YuylmIcZfj154PMmROjvBnX_KvJER-IsUJhWYyzhGtT4Rj.0z5-p78ifjbijndx) | %f5SKs8*| 
+| 9 | 4 | Films API (Express + Mongoose) and REACT | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/react-films) | [REC](https://safcsp-org-sa.zoom.us/rec/play/pPNxMEMQggs4slSO_qNA3g7N1uHmskkHkVhCj1zQFyvPA59cz-5uw6pjm_KIYueD2XOOdHuS9KHgXi6Z.S3BVtRhPG0_ASxo4) | =jLgD5g5| 
+| 9 | 5 | Films API (Express + Mongoose) + REACT | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/react-films) | [REC](https://safcsp-org-sa.zoom.us/rec/play/o1u4DQNlX5ygpHyjpAt80gVnWj8rVim15eoX2hk2MBh6BKSN[…]-zwFNpLPSH17vixTrkdjtQWKHr0.q1MAeh1QOYaaIAMH?autoplay=true) | N7#eXG$G | 
+| 9 | SupportHours | Films API (React Revision) | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/react-films) | [REC](https://safcsp-org-sa.zoom.us/rec/share/2B0Oi6Wd0qs9vZaF8Nunfffk7wcnvDq-VY60ajYiSxm-6OpcZEI9FZA8cyuqjfFB.PnYo7bpBg-8_YMUR) | z^v=Qd7H |
+| 10 | 1 | Express + React - ADMIN DASHBOARD | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/lxdVcjbc2rxScpJ6CJOz3Xjtc0ahyOrPG0V-44qi6eFHJE3uMVcbTPLDT3Guqqix.SO2jXl40Q-8zNKHe) | NGt.+@t3| 
+| 10 | 2 | Express + React - ADMIN DASHBOARD | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/h_6ib-im5noWdhYS8zczl_idVRYoB5HtkpnGBv0S-Kp2yESkWZhTiHiVjnqefOo7.JlgQssvmCwcGKB3k) | n16lP=?6 | 
+| 10 | 3 | Express + React - ADMIN DASHBOARD | [CODE]() | [REC]() | | 
+| 10 | 4 |  | [CODE]() | [REC]() | | 
+| 10 | 5 |  | [CODE]() | [REC]() | | 
