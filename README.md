@@ -193,6 +193,11 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 9 | SupportHours | Films API (React Revision) | [CODE](https://github.com/Tuwaiq-1000-JS-al-Baha/react-films) | [REC](https://safcsp-org-sa.zoom.us/rec/share/2B0Oi6Wd0qs9vZaF8Nunfffk7wcnvDq-VY60ajYiSxm-6OpcZEI9FZA8cyuqjfFB.PnYo7bpBg-8_YMUR) | z^v=Qd7H |
 | 10 | 1 | Express + React - ADMIN DASHBOARD | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/lxdVcjbc2rxScpJ6CJOz3Xjtc0ahyOrPG0V-44qi6eFHJE3uMVcbTPLDT3Guqqix.SO2jXl40Q-8zNKHe) | NGt.+@t3| 
 | 10 | 2 | Express + React - ADMIN DASHBOARD | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/h_6ib-im5noWdhYS8zczl_idVRYoB5HtkpnGBv0S-Kp2yESkWZhTiHiVjnqefOo7.JlgQssvmCwcGKB3k) | n16lP=?6 | 
-| 10 | 3 | Express + React - ADMIN DASHBOARD | [CODE]() | [REC]() | | 
-| 10 | 4 |  | [CODE]() | [REC]() | | 
-| 10 | 5 |  | [CODE]() | [REC]() | | 
+| 10 | 3 | Express + React - ADMIN DASHBOARD + Firebase | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/bCcESRpfd7YHQ0kB0VHMLZZ21qKbPdbePjA0J5wzhVgy0QlelyCvpAzde3FB_Q1I.ROxPV94nC7jDVwZk) | T$R4#B5%| 
+| 10 | 4 | Email Verification | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/8VVL_vFkfzZFG3eGtRp3vTE6T9_yYb6sTOpq7c7On3hD8YAqhV2QAhrC-FwDI6Ou.e1Aji4lVRQ2F1Csh) | 4W4#Lx!4| 
+| 10 | 5 | Password Verification and SQL | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/WYAuQWaeSepQhpnqvlgvVUjFq4HXiR-qo1N2SqxomM-4_ec5qDjG4n8hCyOfc-Cb.NaW_gcFyLrhkNz-V) | &HI9?i91| 
+| 11 | 1 | PROJECT WEEK | | | |
+| 11 | 2 | PROJECT WEEK | | | |
+| 11 | 3 | PROJECT WEEK | | [REC](https://safcsp-org-sa.zoom.us/rec/share/DK6Of41k0wPmpalYApBACUecixO3dG0irJg_Hyn0XYIX_aolRG73tFzMiBvoIIUE.1kY_eygB9WxIUK1v)| 1?$WV807|
+| 11 | 4 | PROJECT WEEK + EXAM | | | |
+| 11 | 5 | PROJECT WEEK | | | |
