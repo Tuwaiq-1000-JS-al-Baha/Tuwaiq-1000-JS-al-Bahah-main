@@ -198,6 +198,6 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 10 | 5 | Password Verification and SQL | [CODE]() | [REC](https://safcsp-org-sa.zoom.us/rec/share/WYAuQWaeSepQhpnqvlgvVUjFq4HXiR-qo1N2SqxomM-4_ec5qDjG4n8hCyOfc-Cb.NaW_gcFyLrhkNz-V) | &HI9?i91| 
 | 11 | 1 | PROJECT WEEK | | | |
 | 11 | 2 | PROJECT WEEK | | | |
-| 11 | 3 | PROJECT WEEK | | [REC](https://safcsp-org-sa.zoom.us/rec/share/DK6Of41k0wPmpalYApBACUecixO3dG0irJg_Hyn0XYIX_aolRG73tFzMiBvoIIUE.1kY_eygB9WxIUK1v)| 1?$WV807|
+| 11 | 3 | GIT CLI | | [REC](https://safcsp-org-sa.zoom.us/rec/share/DK6Of41k0wPmpalYApBACUecixO3dG0irJg_Hyn0XYIX_aolRG73tFzMiBvoIIUE.1kY_eygB9WxIUK1v)| 1?$WV807|
 | 11 | 4 | PROJECT WEEK + EXAM | | | |
 | 11 | 5 | PROJECT WEEK | | | |
