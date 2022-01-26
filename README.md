@@ -199,5 +199,13 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 11 | 1 | PROJECT WEEK | | | |
 | 11 | 2 | PROJECT WEEK | | | |
 | 11 | 3 | GIT CLI | | [REC](https://safcsp-org-sa.zoom.us/rec/share/DK6Of41k0wPmpalYApBACUecixO3dG0irJg_Hyn0XYIX_aolRG73tFzMiBvoIIUE.1kY_eygB9WxIUK1v)| 1?$WV807|
-| 11 | 4 | PROJECT WEEK + EXAM | | | |
+| 11 | 4 | CLIENT SIDE RENDERING & SERVER SIDE RENDERING| | [REC](https://safcsp-org-sa.zoom.us/rec/share/r1BH-sWVV_KYlZ68_OoKqtwgULeU9UTcriz2PsQJUURAp3DkzTR2fjpx0EDAbVQK.0SfMfbFFlTFvaZCN) | @*mLn.5V |
 | 11 | 5 | PROJECT WEEK | | | |
+| 14 | 1 | SOCKET IO AND WEBSOCKET | |[REC](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/EcsxHHcqBY1Avf4Lojd0cD8BkiORusPK5gx8Hffh3a6ymA?e=yQilf4) | rI6d3$_FkCvm|
+| 15 | 1 | DEPLOYMENT HEROKU | |[REC](https://tuwaiqedusa0-my.sharepoint.com/:v:/g/personal/adnene_benamor_tuwaiq_edu_sa/EbvIZI1oR3BEiJ3QuRbi7HoB5GY7fcnw8TZcgfNiTs_c_w?e=bdjNSn) | FtIZg5$Zgk8|
+| 15 | 4 | DIRECT MESSAGES USING SOCKETIO | | [REC](https://safcsp-org-sa.zoom.us/rec/share/oEJ5hjHpzSCxr20uH-M-oZrfVILuP4hGvTSjM2cvarUvU_rwf8X7G7Xav6FswXIw.4Wr3qUYLiD84A5Nr)| %0Vp4gf. |
+|16 |2 | | | [REC](https://safcsp-org-sa.zoom.us/rec/share/gVFZTsdq8iO_MZnbl4dlVuAuh5csFqscPGgsSIZdFYG6IC58-U0cWTcxN3nfgaK0.lJJ5WwTKZFqwFZ_i)| @G5&Ai46 |
+|16 |2 | | | [REC](https://safcsp-org-sa.zoom.us/rec/share/ImOIUbM5fQFL70DlQFfKcl1OJy399Y9OGSbennumDscSO0NyU-d4CEj5ZHmSQytz.J2TmO9k5eEuZp-Gs)| ZZ&HX8EL |
+|16| 3| REACT PLACES, API EXPRESS | [CODE-REACT](https://github.com/Tuwaiq-1000-JS-al-Baha/react-places) [CODE-API](https://github.com/Tuwaiq-1000-JS-al-Baha/places_api)| [REC](https://safcsp-org-sa.zoom.us/rec/share/53LMVy9DcBRo8IPPwgHIKWqreg_sT_F3OhaD-9qTIorxKQ_iw1KSk37AC5Y7BMMA.X3VVvgqSy5zofeWU)|  i$1+=%1T |
+
+
